@@ -26,12 +26,13 @@ This project explores the supply-demand gap in Uber ride requests using real-wor
 
 * **Languages**: Python, SQL
 * **Libraries**: Pandas, Matplotlib, Seaborn
-* **Other Tools**: Excel, Jupyter Notebook
+* **Other Tools**: Excel, Jupyter Notebook, MySQL Workbench
 
 ## 📈 Key Outcomes
 
 * Found significant unmet demand during Night and Morning rush hours.
 * City pickup points suffer from high cancellation rates.
+* Airport pickup points suffer from high car unavaialability rates.
 * Driver-specific insights uncovered high-performing vs low-performing drivers.
 * Suggested time-slot-specific and location-specific strategies for resource reallocation.
 
