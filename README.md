@@ -2,7 +2,7 @@
 
 ## 📌 Introduction
 
-This project explores the supply-demand gap in Uber ride requests using real-world data. The objective is to analyze operational inefficiencies, identify unfulfilled demands, and suggest improvements to optimize driver allocation and customer satisfaction. The analysis is conducted using Python (Pandas, Matplotlib, Seaborn), SQL, and Excel.
+This project explores the supply-demand gap in Uber ride requests using real-world data. The objective is to analyze operational inefficiencies, identify unfulfilled demands, and suggest improvements to optimize driver allocation and customer satisfaction. The analysis is conducted using Python, SQL, and Excel.
 
 ## 📂 Repository Contents
 
