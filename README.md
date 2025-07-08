@@ -9,7 +9,7 @@ This project explores the supply-demand gap in Uber ride requests using real-wor
 | File Name                             | Description                                                                                                     |
 | ------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | `Uber Request Data.csv`               | Raw Uber request dataset containing ride-level data like timestamps, pickup points, status, and driver IDs.     |
-| `Uber_Request_Data_Cleaned_CSV.csv`   | Cleaned version of the dataset used for analysis (nulls removed, time formats fixed, derived columns added).    |
+| `Uber_Request_Data_Cleaned_CSV.csv`   | Cleaned version of the dataset used for analysis (nulls removed, time formats fixed, derived columns added), along with 3 basic Pivot tables and their charts.    |
 | `UberSQL.sql`                         | SQL queries used to extract moderate-level insights from the dataset.                                           |
 | `UberEDA.ipynb`                       | Jupyter Notebook file containing detailed data cleaning, exploration, visualization, and insights using Python. |
 | `PythonUber.pdf`                      | PDF export of the above notebook for easier viewing and sharing.                                                |
