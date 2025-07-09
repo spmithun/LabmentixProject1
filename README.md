@@ -15,6 +15,7 @@ This project explores the supply-demand gap in Uber ride requests using real-wor
 | `UberEDA.ipynb`                       | Jupyter Notebook file containing detailed data cleaning, exploration, visualization, and insights using Python. |
 | `PythonUber.pdf`                      | PDF export of the above notebook for easier viewing and sharing.                                                |
 | `Uber Supply Demand Gap Insights.pdf` | Final compiled report summarizing key questions, visual insights, and business recommendations.                 |
+| `UberInsights.pptx`                   | A power point presentation summarizing all the key insights gained form Exce, SQL and Python in simple lines.   | 
 
 ## 🔍 Project Objectives
 
